@@ -1,5 +1,12 @@
+*{
+  font-family: 'Nunito', sans-serif;
+}
+
 .App {
   text-align: center;
+}
+a{
+  text-decoration: none;
 }
 
 .App-logo {
